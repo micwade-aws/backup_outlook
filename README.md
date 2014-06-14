@@ -1,7 +1,7 @@
 backup_outlook
 ==============
 
-Backup outlook email using Auto Hot Key
+Backup outlook email using Auto Hot Key.  Can be automated, run from the commandline, .. whatever you want.
 
 install
 ==============
